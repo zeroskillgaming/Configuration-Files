@@ -21,8 +21,8 @@ fi
 # =================
 
 # Name changes
-alias flasher='balena-etcher'
-alias sudo='doas'
+#alias flasher='balena-etcher'
+#alias sudo='doas'
 
 # Windows commands
 alias cls='clear'
@@ -39,5 +39,5 @@ alias fpkill='pkill --signal 9'
 alias fkillall='killall --signal 9'
 
 # Debian
-alias reboot='systemctl reboot'
-alias shutdown='systemctl shutdown'
+#alias reboot='systemctl reboot'
+#alias shutdown='systemctl shutdown'
